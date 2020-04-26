@@ -19,7 +19,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-        
+        <link rel="stylesheet" type="text/css" href="css/Table.css"/>
         
          <!-- Bootstrap CSS CDN -->
         <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
@@ -101,23 +101,52 @@
                 </nav>
 
                 <h2>Most Viewed Gardens</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-                <div class="line"></div>
-
-                <h2>Lorem Ipsum Dolor</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-                <div class="line"></div>
-
-                <h2>Lorem Ipsum Dolor</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-                <div class="line"></div>
-
-                <h3>Lorem Ipsum Dolor</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p>Following table gives the detail of the Gardens which are booked most from the Website.This would help us to make some changes in the Website if required. It will also give us the Growth rate of our Website among People.  </p>
+                <table>
+                    <tr>
+                        <th>S.NO.</th>
+                        <th>Name of Garden</th>
+                        <th>Total Bookings</th>
+                        <th>View Details</th>
+                    </tr>
+                    <tr>
+                        <td>1.</td>
+                        <td>Sunflower Garden</td>
+                        <td>50</td>
+                        <td>Details</td>
+                        
+                    </tr>
+                    <tr>
+                        <td>2.</td>
+                        <td>Clinton Garden</td>
+                        <td>40</td>
+                        <td>Details</td>
+                    </tr>
+                    <tr>
+                        <td>3.</td>
+                        <td>Lilly Garden</td>
+                        <td>18</td>
+                        <td>Details</td>
+                    </tr>
+                    <tr>
+                        <td>4.</td>
+                        <td>Radisson Garden</td>
+                        <td>25</td>
+                        <td>Details</td>
+                    </tr>
+                    <tr>
+                        <td>5.</td>
+                        <td>Ghoonghat Garden</td>
+                        <td>25</td>
+                        <td>Details</td>
+                    </tr>
+                    <tr>
+                        <td>6.</td>
+                        <td>Vivaah Garden</td>
+                        <td>25</td>
+                        <td>Details</td>
+                    </tr>
+                </table>
             </div>
         </div>
 

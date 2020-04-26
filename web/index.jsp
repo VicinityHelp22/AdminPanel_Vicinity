@@ -91,8 +91,8 @@
 
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right" style="display: inline-block">
-                                <li><a href="#">Garden Registered</a></li>
-                                <li><a href="#">Requests Pending</a></li>
+                                <li><a href="Gardens_Registered.jsp"><b>Garden Registered</b></a></li>
+                                <li><a href="Requests_Pending.jsp"><b>Requests Pending</b></a></li>
 <!--                                <li><a href="#">Page</a></li>
                                 <li><a href="#">Page</a></li>-->
                             </ul>
@@ -102,7 +102,7 @@
 
                 <h2>Our Website Details!</h2>
                 <p>All the Details of Vicinity is collectively shown in this Admin Panel. It will help us to know if some changes are required in our website. It will also give us the details of growth rate of our Website. All the information is easily accessible here.</p>
-                <div class="line"></div>
+<!--                <div class="line"></div>
 
                 <h2>Lorem Ipsum Dolor</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -115,7 +115,7 @@
                 <div class="line"></div>
 
                 <h3>Lorem Ipsum Dolor</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
             </div>
         </div>
 

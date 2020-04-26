@@ -18,7 +18,7 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
+        <link rel="stylesheet" type="text/css" href="css/Table.css" />
         
         
          <!-- Bootstrap CSS CDN -->
@@ -91,8 +91,8 @@
 
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right" style="display: inline-block">
-                                <li><a href="#">Garden Registered</a></li>
-                                <li><a href="#">Requests Pending</a></li>
+                                <li><a href="Gardens_Registered.jsp"><b>Garden Registered</b></a></li>
+                                <li><a href="Requests_Pending.jsp"><b>Requests Pending</b></a></li>
 <!--                                <li><a href="#">Page</a></li>
                                 <li><a href="#">Page</a></li>-->
                             </ul>
@@ -100,11 +100,36 @@
                     </div>
                 </nav>
 
-                <h2>People Visited the Website!</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-                <div class="line"></div>
+                <h2>People who Visited the Website!</h2>
+                <p>Following table gives the detail of the Number of people who visited the Website.This would help us to make some changes in the Website if required. It will also give us the Growth rate of our Website among People.  </p>
+                <table>
+                    <tr>
+                        <th>S.NO.</th>
+                        <th>Date of Visit</th>
+                        <th>Number of people visited the Website</th>
+                    </tr>
+                    <tr>
+                        <td>1.</td>
+                        <td>23/01/2017</td>
+                        <td>50</td>
+                    </tr>
+                    <tr>
+                        <td>2.</td>
+                        <td>25/03/2017</td>
+                        <td>40</td>
+                    </tr>
+                    <tr>
+                        <td>3.</td>
+                        <td>30/05/2018</td>
+                        <td>18</td>
+                    </tr>
+                    <tr>
+                        <td>4.</td>
+                        <td>01/06/1018</td>
+                        <td>25</td>
+                    </tr>
+                </table>
+<!--                <div class="line"></div>
 
                 <h2>Lorem Ipsum Dolor</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -117,7 +142,7 @@
                 <div class="line"></div>
 
                 <h3>Lorem Ipsum Dolor</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
             </div>
         </div>
 

@@ -7,7 +7,7 @@
         <div class="collapse navbar-collapse" id="navbarNav" style="padding-left:64%">
             <ul class="navbar-nav">
                 <li class="nav-item ">
-                    <a class="nav-link" href="Drop_a_Message.jsp" style="font-size: 20px">Drop Your Idea Here <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="#" style="font-size: 20px">Drop Your Idea Here <span class="sr-only">(current)</span></a>
                 </li>
 <!--                <li class="nav-item">
                     <a class="nav-link" href="#" style="font-size: 20px">Requests Pending</a>
